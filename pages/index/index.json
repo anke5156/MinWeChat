@@ -1,0 +1,8 @@
+{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#576b95",
+    "navigationBarTitleText": "Hello word",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":"true",
+    "backgroundTColor":"white"
+  }
